@@ -15,12 +15,12 @@ I have completed my Engineering in Electronics and Communication from [Vyas Inst
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working as a freelancer with [Sahil Choujar](https://github.com/choujar/) as well as working on my personal fullstack Expense Manager Project. Also learning Redux. 
+- 🔭 I’m currently working as a freelancer with [Sahil Choujar](https://github.com/choujar/) as well as working on my personal project(Expense Manager). and Also learning React-Redux. 
 - 👯 I’m looking to collaborate on open source project.
-- 💬 Let me know how can I help you in any possible way.
+- 💬 How can I be of assistance?
 - 📫 Reach me at: saurabhguptaviet@gmail.com
-- 📫 Hire me: [Upwork](https://www.upwork.com/o/profiles/users/~01827e55d2191180cc/)
 - 📫 Read my blogs: [Blogs](https://medium.com/@saurabhguptaviet/)
+- 📫 Hire me: [Upwork](https://www.upwork.com/o/profiles/users/~01827e55d2191180cc/)
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
