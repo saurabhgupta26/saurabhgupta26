@@ -10,8 +10,8 @@
 
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
-Currently, I am learning MERN Stack Web Development at [AltCampus](https://altcampus.io/), Dharamshala, Himachal Pradesh.
-I have completed my Engineering in Electronics and Communication Engineering from [Vyas Institute of Engineering and Technology](http://www.vyaseducation.org/Viet/)
+Currently, I am learning MERN Stack at [AltCampus](https://altcampus.io/), Dharamshala, Himachal Pradesh.
+I have completed my Engineering in Electronics and Communication from [Vyas Institute of Engineering and Technology](http://www.vyaseducation.org/Viet/)
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
