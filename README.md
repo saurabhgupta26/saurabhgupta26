@@ -10,22 +10,22 @@
 
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
-Currently, I am learning MERN Stack at [AltCampus](https://altcampus.io/), Dharamshala, Himachal Pradesh.
+I am a MERN Stack Developer, studied at [AltCampus](https://altcampus.io/), Dharamshala, Himachal Pradesh.
 I have completed my Engineering in Electronics and Communication from [Vyas Institute of Engineering and Technology](http://www.vyaseducation.org/Viet/)
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working as a freelancer with [Sahil Choujar](https://github.com/choujar/) as well as working on my personal project(Expense Manager). and Also learning React-Redux. 
 - 👯 I’m looking to collaborate on open source project.
 - 💬 How can I be of assistance?
 - 📫 Reach me at: saurabhguptaviet@gmail.com
 - 📫 Read my blogs: [Blogs](https://medium.com/@saurabhguptaviet/)
 - 📫 Hire me: [Upwork](https://www.upwork.com/o/profiles/users/~01827e55d2191180cc/)
+- 📫 Check my portfolio at: [Portfolio](https://codingwithsaurabh.netlify.app/)
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **HTML, C, CSS and JavaScript**
-- Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, Redux, NodeJS, ExpressJS and REST API**
+- Languages - **HTML, CSS and JavaScript**
+- Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, Redux, Hooks, NodeJS, RoR, ExpressJS and REST API**
 - Databases/ODM: - **MySQL, MongoDB and Mongoose**
 - Tools: - **Git, Github, Developer Tool, Babel**
 
