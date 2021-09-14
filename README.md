@@ -29,4 +29,18 @@ I have completed my Engineering in Electronics and Communication from [Vyas Inst
 - Databases/ODM: - **MySQL, MongoDB and Mongoose**
 - Tools: - **Git, Github, Developer Tool, Babel**
 
-![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=saurabhgupta26&hide=["issues"]&show_icons=true)
+<br>
+<p>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>
+
+<br>
+
+| <a href="https://github.com/saurabhgupta26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhgupta26&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Saurabh's github stats" /></a> | <a href="https://github.com/saurabhgupta26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhgupta26&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
