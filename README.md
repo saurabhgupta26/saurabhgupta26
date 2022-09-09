@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Saurabh Gupta, a Full Stack Developer ##
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/saurabhgupta26)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-gupta-60780966/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/codingwithsaurabh/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/saurabhgupta26/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/guptasaurabh26)](https://twitter.com/guptasaurabh26)
 [![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@saurabhguptaviet/)](https://medium.com/@saurabhguptaviet)
@@ -25,7 +25,7 @@ I have completed my Engineering in Electronics and Communication from [Vyas Inst
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
 - Languages - **HTML, CSS and JavaScript**
-- Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, Redux, Hooks, NodeJS, RoR, ExpressJS and REST API**
+- Libraries/Frameworks: - **SCSS/SASS, Bootstrap, React, Redux, Next, Hooks, NodeJS, RoR, ExpressJS, Vue and REST APIs**
 - Databases/ODM: - **MySQL, MongoDB and Mongoose**
 - Tools: - **Git, Github, Developer Tool, Babel**
 
